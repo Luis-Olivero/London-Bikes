@@ -19,7 +19,7 @@ Python
 Jupyter Notebook
 Pandas
 Matplotlib
-Tableau Public
+Tableau Public: https://public.tableau.com/app/profile/luis.olivero2947/viz/LondonBikesVisualizationv3/Dashboard1?publish=yes
 
 ## Getting Started
 
